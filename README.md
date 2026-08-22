@@ -8,6 +8,8 @@ Sou desenvolvedor e programador iniciante com interesse em diferentes aprendizad
 - **Lógica de Programação**
 - **Linguagem de programação C**
 - **Sistemas operacionais: GNU/Linux e Microsoft Windows.**
+
+## O que ando fazendo:
 - **Faculdade: Análise e Desenvolvimento de Sistemas**
 
 ## Áreas de interesse:
