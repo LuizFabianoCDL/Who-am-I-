@@ -1,25 +1,23 @@
 # Olá, sou Luiz Fabiano! 👋
-Futuro analista de dados e de segurança.
+Futuro desenvolvedor Back-end e Red/Blue Team
 
 ## Sobre mim
-Sou desenvolvedor e programador iniciante com grande interesse em  **cibersegurança** e **análise de dados** .
+Sou desenvolvedor e programador iniciante com interesse em diferentes aprendizados tecnológicos.
 
 ## O que estou aprendendo:
 - **Lógica de Programação**
-- **Linguagem de programação C, Assembly e Python**
-- **Estudando sobre banco dados com o foco principal: SQL**
+- **Linguagem de programação C**
 - **Sistemas operacionais: GNU/Linux e Microsoft Windows.**
-- **Curso a faculdade: Análise e Desenvolvimento de Sistemas**
+- **Faculdade: Análise e Desenvolvimento de Sistemas**
 
 ## Áreas de interesse:
-- **Cibersegurança**
-- **Análise de dados**
-
-## Curiosidades:
-- Gosto de aprender de tudo um pouco
-- Jogo jogos que agregam em racionio rápido e que estimulem o aprendizado
+- **Back-end**
+- **Blue Team**
+- **Red Team**
   
 ## Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/luizfabianoclima)
-- [E-mail](mailto:fabianolfc0325@gmail.com)
+- Discord: fabianocarvalho_dev
+- Reddit: https://www.reddit.com/user/Hades_carvalho/
+- Facebook: https://www.facebook.com/profile.php?id=61585984403237
+
 
